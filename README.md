@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi, I'm web developer.<br/>
+I'm web developer.<br/>
 I like to share what I have studied with others.<br/>
 In these days, I am interested is the mass data processing system and MSA.
 
